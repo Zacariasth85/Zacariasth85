@@ -17,11 +17,6 @@ Sou um estudante apaixonado por **Programação** e **Engenharia de Software**, 
 - Integração de sistemas com **banco de dados** como **MySQL** e **PostgreSQL**.
 - Automação e otimização de processos com **scripts Python**.
 
-### Projetos Principais
-- [Projeto 1](link_do_repositorio): Descrição breve do projeto.
-- [Projeto 2](link_do_repositorio): Descrição breve do projeto.
-- [Projeto 3](link_do_repositorio): Descrição breve do projeto.
-
 ## Vamos Conversar!
 
 🔗 **E-mail**: [zacariasrichard85@gmail.com](mailto:zacariasrichard85@gmail.com)
